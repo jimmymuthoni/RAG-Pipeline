@@ -1,4 +1,4 @@
-# LangChain Components: Load, Split, Embed, and Store
+## LangChain Components: Load, Split, Embed, and Store
 
 LangChain provides essential components to build LLM-powered applications. Below are the core components used in **Retrieval-Augmented Generation (RAG)** and other NLP workflows.
 
